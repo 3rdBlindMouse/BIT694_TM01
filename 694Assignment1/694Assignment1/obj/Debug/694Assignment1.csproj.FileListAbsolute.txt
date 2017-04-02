@@ -1,0 +1,12 @@
+C:\Users\admin\Documents\Visual Studio 2015\Projects\BIT694\694Assignment1\694Assignment1\bin\Debug\694Assignment1.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\BIT694\694Assignment1\694Assignment1\bin\Debug\694Assignment1.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\BIT694\694Assignment1\694Assignment1\bin\Debug\694Assignment1.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\BIT694\694Assignment1\694Assignment1\obj\Debug\694Assignment1.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\BIT694\694Assignment1\694Assignment1\obj\Debug\694Assignment1.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\BIT694\694Assignment1\694Assignment1\obj\Debug\694Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\BIT694\Assignment1\694Assignment1\694Assignment1\bin\Debug\694Assignment1.exe.config
+C:\Users\admin\Documents\BIT694\Assignment1\694Assignment1\694Assignment1\bin\Debug\694Assignment1.exe
+C:\Users\admin\Documents\BIT694\Assignment1\694Assignment1\694Assignment1\bin\Debug\694Assignment1.pdb
+C:\Users\admin\Documents\BIT694\Assignment1\694Assignment1\694Assignment1\obj\Debug\694Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\BIT694\Assignment1\694Assignment1\694Assignment1\obj\Debug\694Assignment1.exe
+C:\Users\admin\Documents\BIT694\Assignment1\694Assignment1\694Assignment1\obj\Debug\694Assignment1.pdb
