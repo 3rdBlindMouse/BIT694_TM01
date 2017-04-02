@@ -1,2 +1,2 @@
-# BIT794_TM01
+# BIT7694_TM01 2017
 bankingApp
